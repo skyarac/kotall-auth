@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kotall-auth-cms:war">
+    <output-path>$PROJECT_DIR$/kotall-auth-cms/target</output-path>
+    <root id="archive" name="kotall-auth-cms.war">
+      <element id="artifact" artifact-name="kotall-auth-cms:war exploded" />
+    </root>
+  </artifact>
+</component>
